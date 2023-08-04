@@ -1,5 +1,4 @@
 /* CHALLENGE #3
-
 There are two gymnastics teams: Dolphins and Koalas. They compete against each other 3 times. The winner with the highest average score wins a trophy!
 
 Your tasks:
@@ -13,7 +12,6 @@ Your tasks:
 "Koalas win the trophy" if Koalas win, or
 
 "Both win the trophy" if their average scores are equal.
-
 
 TEST DATA: Dolphins scored 96, 108, and 89. Koalas scored 88, 91, and 110.*/
 const matchOneDolphins = 96;
